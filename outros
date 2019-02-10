@@ -2,12 +2,11 @@
   {
     "idOutros_M": 1,
     "NomeOutros_M": "Projeto TrackSource",
-    "DescricaoOutros_M": "O Tracksource é uma associação livre de usuários, que se organizaram voluntariamente, com o objetivo de produzir mapas do Brasil para uso em GPS.
-Através deste site, informações levantadas pelos usuários são encaminhadas a desenvolvedores que atualizam os mapas e periodicamente os publicam para serem baixados por toda a comunidade.",
+    "DescricaoOutros_M": "O Tracksource é uma associação livre de usuários, que se organizaram voluntariamente, com o objetivo de produzir mapas do Brasil para uso em GPS. Através deste site, informações levantadas pelos usuários são encaminhadas a desenvolvedores que atualizam os mapas e periodicamente os publicam para serem baixados por toda a comunidade.",
     "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/599590_279536705481983_1144037446_n.png?_nc_cat=103&_nc_ht=scontent.fplu17-1.fna&oh=1252e508924d5e300edec373d6914e98&oe=5CF92B59",
     "LinkOutros_M": "http://tracksource.org.br/"
   },
-   {
+  {
     "idOutros_M": 2,
     "NomeOutros_M": "MOGEO Região Sudeste",
     "DescricaoOutros_M": "Mapa MOGEO curva de nível apenas da Região Sudeste.",
@@ -49,22 +48,11 @@ Através deste site, informações levantadas pelos usuários são encaminhadas 
     "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/37977750_486005911847761_2865933528028151808_n.jpg?_nc_cat=105&_nc_ht=scontent.fplu17-1.fna&oh=38ee2cd97296a747ea42daf3b0e4f837&oe=5CFBCA1E",
     "LinkOutros_M": "https://www.facebook.com/trilhatransespinhaco/"
   },
-   {
+  {
     "idOutros_M": 8,
     "NomeOutros_M": "Trilha Transmantiqueira",
-    "DescricaoOutros_M": "O Movimento TrilhaTransmantiqueira é um agrupamento de montanhistas e trilheiros voluntários, e de servidores de Unidades de Conservação que, em reunião no Parque Nacional do Itatiaia em 26/10/2017, resolveram "botar no chão" uma nova trilha de longo curso, através do conjunto de montanhas conhecido por Mantiqueira (A Serra que Chora).",
+    "DescricaoOutros_M": "O Movimento TrilhaTransmantiqueira é um agrupamento de montanhistas e trilheiros voluntários, e de servidores de Unidades de Conservação que, em reunião no Parque Nacional do Itatiaia em 26/10/2017, resolveram 'botar no chão' uma nova trilha de longo curso, através do conjunto de montanhas conhecido por Mantiqueira (A Serra que Chora).",
     "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/22853274_137977140287967_8016526774598326241_n.jpg?_nc_cat=107&_nc_ht=scontent.fplu17-1.fna&oh=d615774a647e9bca6331b1061fd13904&oe=5CEB4B96",
     "LinkOutros_M": "http://transcarioca.wikiparques.org/"
   }
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 ]
