@@ -54,5 +54,26 @@
     "DescricaoOutros_M": "O Movimento TrilhaTransmantiqueira é um agrupamento de montanhistas e trilheiros voluntários, e de servidores de Unidades de Conservação que, em reunião no Parque Nacional do Itatiaia em 26/10/2017, resolveram 'botar no chão' uma nova trilha de longo curso, através do conjunto de montanhas conhecido por Mantiqueira (A Serra que Chora).",
     "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/22853274_137977140287967_8016526774598326241_n.jpg?_nc_cat=107&_nc_ht=scontent.fplu17-1.fna&oh=d615774a647e9bca6331b1061fd13904&oe=5CEB4B96",
     "LinkOutros_M": "http://transcarioca.wikiparques.org/"
-  }
+  },
+  {
+    "idOutros_M": 9,
+    "NomeOutros_M": "Imagens Outdoor",
+    "DescricaoOutros_M": "#trilhando_trekking",
+    "ImagemOutros_M": "https://instagram.fplu17-1.fna.fbcdn.net/vp/f6872977eeb80f55ae77f41a85ff05a9/5CDF3D4C/t51.2885-15/e35/s1080x1080/38800259_241275890056352_2524136607523536896_n.jpg?_nc_ht=instagram.fplu17-1.fna.fbcdn.net",
+    "LinkOutros_M": "https://www.instagram.com/explore/tags/trilhando_trekking/"
+  },
+  {
+    "idOutros_M": 10,
+    "NomeOutros_M": "Alta Montanha",
+    "DescricaoOutros_M": "Notícias",
+    "ImagemOutros_M": "http://altamontanha.com/wp-content/uploads/2018/03/Logo-AM-topo.png",
+    "LinkOutros_M": "http://altamontanha.com/category/noticias/"
+  },
+  {
+    "idOutros_M": 11,
+    "NomeOutros_M": "CEM",
+    "DescricaoOutros_M": "Centro Excursionista Mineiro (CEM)",
+    "ImagemOutros_M": "http://www.sitedocem.org.br/wordpress/wp-content/uploads/2015/06/cropped-cropped-cropped-logo_cem.png",
+    "LinkOutros_M": "http://www.sitedocem.org.br/wordpress/"
+  } 
 ]
