@@ -75,5 +75,12 @@
     "DescricaoOutros_M": "Centro Excursionista Mineiro (CEM)",
     "ImagemOutros_M": "http://www.sitedocem.org.br/wordpress/wp-content/uploads/2015/06/cropped-cropped-cropped-logo_cem.png",
     "LinkOutros_M": "http://www.sitedocem.org.br/wordpress/"
-  } 
+  },
+   {
+    "idOutros_M": 12,
+    "NomeOutros_M": "Spotify Trilhando",
+    "DescricaoOutros_M": "Trilhando! Trekking (Off Trail)",
+    "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/32839187_1732565826828719_2233279399308820480_n.png?_nc_cat=1&_nc_ht=scontent.fplu17-1.fna&oh=a58f7d9241c7316f38128fcb16e228fb&oe=5CFB6C6A",
+    "LinkOutros_M": "https://open.spotify.com/playlist/1B8NxbJotRDYWzmt04M5iy"
+  }
 ]
