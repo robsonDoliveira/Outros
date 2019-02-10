@@ -30,10 +30,31 @@ Através deste site, informações levantadas pelos usuários são encaminhadas 
   },
   {
     "idOutros_M": 5,
-    "NomeOutros_M": "AventureBox",
-    "DescricaoOutros_M": "AventureBox é uma plataforma de aventuras para registrar e compartilhar experiências outdoor. Explore!",
-    "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/23622510_784655298389266_2229914785481620564_n.png?_nc_cat=103&_nc_ht=scontent.fplu17-1.fna&oh=27d237d0498967be4da83d9be740eb44&oe=5CB4650F",
-    "LinkOutros_M": "https://aventurebox.com/"
+    "NomeOutros_M": "MapSource",
+    "DescricaoOutros_M": "Editor para GPS",
+    "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/30652214_2022074197821609_2300434335423004672_n.png?_nc_cat=102&_nc_ht=scontent.fplu17-1.fna&oh=95ba573ce8e8317411221ce4b20a64f0&oe=5CFF7A25",
+    "LinkOutros_M": "https://www8.garmin.com/support/download_details.jsp?id=209"
+  },
+  {
+    "idOutros_M": 6,
+    "NomeOutros_M": "Trilha Transcarioca",
+    "DescricaoOutros_M": "A Trilha Transcarioca fortalece a conservação e recuperação dos corredores verdes unindo as principais áreas de Mata Atlântica da cidade.",
+    "ImagemOutros_M": "http://transcarioca.wikiparques.org/wp-content/themes/rt_kraken/custom/images/logo/tc-big.png",
+    "LinkOutros_M": "http://transcarioca.wikiparques.org/"
+  },
+  {
+    "idOutros_M": 7,
+    "NomeOutros_M": "Trilha Transespinhaço",
+    "DescricaoOutros_M": "Interligar as Unidades de Conservação da cadeia do Espinhaço por meio de uma trilha de longo curso, promovendo um corredor de conservação.",
+    "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/37977750_486005911847761_2865933528028151808_n.jpg?_nc_cat=105&_nc_ht=scontent.fplu17-1.fna&oh=38ee2cd97296a747ea42daf3b0e4f837&oe=5CFBCA1E",
+    "LinkOutros_M": "https://www.facebook.com/trilhatransespinhaco/"
+  },
+   {
+    "idOutros_M": 8,
+    "NomeOutros_M": "Trilha Transmantiqueira",
+    "DescricaoOutros_M": "O Movimento TrilhaTransmantiqueira é um agrupamento de montanhistas e trilheiros voluntários, e de servidores de Unidades de Conservação que, em reunião no Parque Nacional do Itatiaia em 26/10/2017, resolveram "botar no chão" uma nova trilha de longo curso, através do conjunto de montanhas conhecido por Mantiqueira (A Serra que Chora).",
+    "ImagemOutros_M": "https://scontent.fplu17-1.fna.fbcdn.net/v/t1.0-9/22853274_137977140287967_8016526774598326241_n.jpg?_nc_cat=107&_nc_ht=scontent.fplu17-1.fna&oh=d615774a647e9bca6331b1061fd13904&oe=5CEB4B96",
+    "LinkOutros_M": "http://transcarioca.wikiparques.org/"
   }
   
   
